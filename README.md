@@ -14,7 +14,7 @@ This is a standard database scheme with courses, students, and instructors. This
 
 ### Database layout
 
-You are creating a Java Spring REST API server which stores data in an H2 database. The final table layouts should be
+You are creating a Java Spring REST API server which stores data in an H2 database.  The final table layouts should be
 
 ![School Database Layout](schooldb.png)
 
